@@ -594,9 +594,25 @@
     }
 
     /* tecnología */
+
+    .mainTecnologia{
+        height: auto;
+    }
     .mainTecnologia h2{
         position: relative;
         left: 20px;
+        width: 70vw;
+    }
+
+    .mainTecnologia p{
+        position: relative;
+        left: -100px;
+        width: 60vw;
+    }
+    .mainTecnologia img{
+        position: relative;
+        left: -100px;
+        width: 60vw;
     }
 
     
@@ -847,6 +863,27 @@
         position: relative;
         left: 35px;
     }
+    
+     /* tecnología */
+
+  
+    
+     .mainTecnologia h2{
+        position: relative;
+        left: 30px;
+        width: 60vw;
+    }
+
+    .mainTecnologia p{
+        position: relative;
+        left: -65px;
+        width: 60vw;
+    }
+    .mainTecnologia img{
+        position: relative;
+        left: -65px;
+        width: 60vw;
+    }
 
 
 
@@ -973,6 +1010,31 @@
         width: 82vw;
         
     }
+
+    /* tecnología */
+
+  
+    
+    .mainTecnologia h2{
+        position: relative;
+        left: 30px;
+        width: 60vw;
+    }
+
+    .mainTecnologia p{
+        position: relative;
+        left: -45px;
+        width: 50vw;
+    }
+    .mainTecnologia img{
+        position: relative;
+        left: -55px;
+        width: auto;
+        
+    }
+
+
+   
 
     
 }

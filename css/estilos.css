@@ -600,19 +600,19 @@
     }
     .mainTecnologia h2{
         position: relative;
-        left: 20px;
-        width: 70vw;
+        left: 60px;
+        width: 40vw;
     }
 
     .mainTecnologia p{
         position: relative;
-        left: -100px;
-        width: 60vw;
+        left: -170px;
+        width: 40vw;
     }
     .mainTecnologia img{
         position: relative;
-        left: -100px;
-        width: 60vw;
+        left: -180px;
+        width: 300px;
     }
 
     
@@ -870,19 +870,20 @@
     
      .mainTecnologia h2{
         position: relative;
-        left: 30px;
-        width: 60vw;
+        left: 60px;
+        width: 35vw;
     }
 
     .mainTecnologia p{
         position: relative;
         left: -65px;
-        width: 60vw;
+        width: 35vw;
     }
     .mainTecnologia img{
         position: relative;
-        left: -65px;
-        width: 60vw;
+        left: -75px;       
+        width: 150px;
+        height: 170px;
     }
 
 
@@ -1017,19 +1018,20 @@
     
     .mainTecnologia h2{
         position: relative;
-        left: 30px;
-        width: 60vw;
+        left: 20px;
+        width: 40vw;
     }
 
     .mainTecnologia p{
         position: relative;
-        left: -45px;
-        width: 50vw;
+        left: -95px;
+        width: 35vw;
     }
     .mainTecnologia img{
         position: relative;
-        left: -55px;
-        width: auto;
+        left: -100px;
+        width: 130px;
+        height: 130px;
         
     }
 
